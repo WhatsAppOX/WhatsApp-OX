@@ -1,5 +1,5 @@
 {
   "VERSION_NAME": "12.0",
   "WEBSITE_URL": "https://t.me/apkxu/592",
-  "CHANGELOG" : "- Add an icon to group messages. An icon will appear on the message to know if it is group or not\n- Adding a feature to know who deleted the message in the group, whether the admin or the member. It will appear in green if the admin deleted the member’s message, and if he deleted it himself, it will appear red.\n- Add a button to hide the deletion date and show it when you click on the deleted message icon\n- Added a button to show the last appearance on the detailed screen. The last appearance will now appear in detail with a new appearance\n- Adding a button to hide the name of the contact in the conversation, with the ability to activate separate privacy for the contact\n- Fix the problem of deleting group member messages when you are a moderator\n- Fix the edit log not appearing when someone edits the media caption \n- Add a button to raise the video resolution\n- Fix going to the first message for all old conversations and new conversations"
+  "CHANGELOG" : ""
 }
