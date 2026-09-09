@@ -1,5 +1,5 @@
 {
   "VERSION_NAME": "12.0",
   "WEBSITE_URL": "https://t.me/apkxu/592",
-  "CHANGELOG" : ""
+  "CHANGELOG" : "<b>✨ WHAT'S NEW</b><br><br><font color='#55E6A5'><b>💬 MESSAGES</b></font><br>• Added an icon to identify group messages.<br>• Added information showing who deleted a group message.<br>• Admin deletion appears in <font color='#55E6A5'><b>green</b></font>, member deletion appears in <font color='#FF5252'><b>red</b></font>.<br><br><font color='#B77CFF'><b>🗑 DELETED MESSAGES</b></font><br>• Added an option to hide the deletion date.<br>• Tap the deleted message icon to view the date.<br><br><font color='#42A5F5'><b>👁 APPEARANCE</b></font><br>• Added a detailed view for the last appearance.<br>• Improved the appearance of the detailed screen.<br><br><font color='#29D6C2'><b>🔒 PRIVACY</b></font><br>• Added an option to hide the contact's name in conversations.<br>• Added separate privacy settings for contacts.<br><br><font color='#FFB020'><b>🐛 FIXES</b></font><br>• Fixed deleting group-member messages as a moderator.<br>• Fixed the edit log not appearing when someone edits the media caption.<br>• Added a button to increase video resolution.<br>• Fixed going to the first message for all."
 }
